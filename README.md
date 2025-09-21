@@ -46,19 +46,17 @@ This notebook demonstrates:
 ## 🚀 Getting Started
 
 ### 1. Clone the Repository
-2. Install Required Packages
+### 2. Install Required Packages
 
 Install the necessary Python libraries:
 
 pip install pandas numpy matplotlib cvxopt scipy
 
-3. Open the Notebook
-jupyter notebook
-
+### 3. Open the Notebook
 
 Then open Dhruv_Black_Litterman_PortfolioOptimization.ipynb and run the cells.
 
-📊 Black-Litterman Workflow
+📊 Black-Litterman Workflow - 
 
 Collect Historical Data – Load price data for selected assets.
 
@@ -72,23 +70,12 @@ Optimize Portfolio – Calculate optimal asset weights using convex optimization
 
 Visualize Results – Display portfolio allocations and efficient frontier.
 
-📈 Example Output
 
-Example visualization of optimized portfolio weights:
-
-[ 'Asset A': 20%,
-  'Asset B': 15%,
-  'Asset C': 30%,
-  'Asset D': 35% ]
-
-📝 References
+### 4. References
 
 Fischer Black & Robert Litterman, Global Portfolio Optimization, 1992.
-
-CFA Institute: Black-Litterman Model
-
 Original Goldman Sachs Research Paper
 
-👤 Author
+## 5. 👤 Author
 
 Dhruv Gohil
