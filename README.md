@@ -76,6 +76,6 @@ Visualize Results – Display portfolio allocations and efficient frontier.
 Fischer Black & Robert Litterman, Global Portfolio Optimization, 1992.
 Original Goldman Sachs Research Paper
 
-## 5. 👤 Author
+## 👤 Author
 
 Dhruv Gohil
