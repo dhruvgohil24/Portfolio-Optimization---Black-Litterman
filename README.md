@@ -56,7 +56,7 @@ pip install pandas numpy matplotlib cvxopt scipy
 
 Then open Dhruv_Black_Litterman_PortfolioOptimization.ipynb and run the cells.
 
-📊 Black-Litterman Workflow - 
+## 📊 Black-Litterman Workflow - 
 
 Collect Historical Data – Load price data for selected assets.
 
@@ -71,7 +71,7 @@ Optimize Portfolio – Calculate optimal asset weights using convex optimization
 Visualize Results – Display portfolio allocations and efficient frontier.
 
 
-### 4. References
+## References
 
 Fischer Black & Robert Litterman, Global Portfolio Optimization, 1992.
 Original Goldman Sachs Research Paper
